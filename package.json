@@ -1,7 +1,7 @@
 {
   "name": "react-redux-helloworld",
   "version": "1.0.0",
-  "description": "",
+  "description": "This file exists only so that we can deploy to heroku and install node (used for building the ClientApp/ folder)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
