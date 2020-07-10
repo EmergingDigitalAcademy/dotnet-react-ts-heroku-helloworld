@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/fa86bdc8-86f6-49f2-b1e3-f8a571a96343/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/booherbg-dotnet-testing-2",
-    "appService.deploySubpath": "publish"
-}
